@@ -9,7 +9,7 @@ Get.Set.Go in 3 steps : <br>
 `cd zetapp`<br>
 `npm run dev`<br>
 
-#Documentation
+# Documentation
 The cloned website is mobile-responsive, featuring some subtle animations to enhance the user experience. One notable improvement I made was making the navbar sticky, as it was not in the original site. This change enhances navigation and overall aesthetics.
 
 I have thoroughly tested the site on various browsers and ensured that it is compatible with all of them. In cases where Internet Explorer required webkit support, I added it to guarantee a seamless browsing experience for all users.
